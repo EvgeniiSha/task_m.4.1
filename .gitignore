@@ -1,0 +1,12 @@
+# Editor directories and files
+
+repair_original.webp
+representative_original.jpg
+silence_original.png
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
